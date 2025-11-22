@@ -1,3 +1,4 @@
+
 ✈️ Flight Delay Prediction with Machine Learning
 🧠 Project Overview
 This project focuses on predicting flight delays and cancellations using real-world aviation data.
@@ -7,7 +8,9 @@ It applies machine learning algorithms to achieve accurate and reliable delay fo
 Predict arrival delay (ARR_DELAY) and departure delay (DEP_DELAY) with high accuracy.
 Classify whether a flight will be cancelled or not.
 Improve model robustness through feature engineering, outlier handling, and hyperparameter optimization.
+
 ⚙️ Methods & Techniques
+
 🧹 Data Preprocessing
 Outlier detection and data cleaning
 Feature creation and transformation
@@ -17,6 +20,7 @@ Random Forest
 XGBoost
 CatBoost
 LightGBM
+
 ⚡ Optimization
 Bayesian Optimization for hyperparameter tuning
 Early stopping to prevent overfitting
