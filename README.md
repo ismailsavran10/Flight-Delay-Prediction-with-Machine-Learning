@@ -15,6 +15,7 @@ Improve model robustness through feature engineering, outlier handling, and hype
 Outlier detection and data cleaning
 Feature creation and transformation
 Handling missing and imbalanced data
+
 🤖 Machine Learning Models
 Random Forest
 XGBoost
@@ -25,16 +26,18 @@ LightGBM
 Bayesian Optimization for hyperparameter tuning
 Early stopping to prevent overfitting
 Ensemble averaging for better generalization
+
 📊 Evaluation Metrics
 Regression Metrics:
 
 MAE, MSE, RMSE, R², MAPE
 Classification Metrics:
-
 Accuracy, Precision, Recall, F1-score
+
 🚀 Results
 Achieved high accuracy in both delay prediction and cancellation classification.
 Reduced RMSE–MAE difference and improved model stability.
 Demonstrated strong generalization across different airlines and airports.
+
 👩‍💻 Author
 Ismail Savran
